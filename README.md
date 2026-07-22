@@ -2,7 +2,7 @@
 
 ### SNES - Prince of Persia 2 alternative
 - [x] Levels
-- [ ] Extra Levels
+- [ ] Extra Levels (WIP)
 - [ ] Pallete
 - [ ] Disable Flashing Lights
 - [ ] Skip Death Animations
@@ -13,3 +13,7 @@
 - [ ] Background palletes
 - [ ] Music
 - [ ] Sprites
+### GBA - Rayman Advance Remastered Edition
+#### Didnt Start yet
+- [ ] PS1 like palette
+- [ ] correct music location
