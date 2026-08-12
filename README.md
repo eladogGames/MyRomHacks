@@ -2,12 +2,13 @@
 
 ### SNES - Prince of Persia 2 alternative
 - [x] Levels
-- [ ] Extra Levels (WIP)
-- [ ] Pallete
+- [x] Extra Levels
+- [ ] Pallete (Partially)
 - [ ] Disable Flashing Lights
 - [ ] Skip Death Animations
-- [ ] Music (help needed)
-- [ ] Sprites from the MS-DOS of Prince of Persia Shadow and the flame
+- [ ] Music (Tool Needed)
+- [ ] Sprites from the MS-DOS of Prince of Persia Shadow and the flame (Decompression and Sprite editing Tool Needed)
+- [ ] Add Gates for the Temple levels
 ### GBA - Shadow Advance
 #### Didn't Start yet
 - [ ] Background palletes
