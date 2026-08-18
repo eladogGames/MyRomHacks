@@ -4,9 +4,9 @@
 - [x] Levels
 - [x] Extra Levels
 - [x] Add Gates for the Temple levels
-- [ ] Pallete (Partially)
+- [x] Pallete
+- [x] Skip Death Animations
 - [ ] Disable Flashing Lights
-- [ ] Skip Death Animations
 - [ ] Music (Tool Needed)
 - [ ] Sprites from the MS-DOS of Prince of Persia Shadow and the flame (Decompression and Sprite editing Tool Needed)
 ### GBA - Shadow Advance
