@@ -7,7 +7,7 @@
 - [x] Pallete
 - [x] Skip Death Animations
 - [ ] Disable Flashing Lights
-- [ ] Music (Tool Needed)
+- [ ] Music (Tool Needed or better music doc)
 - [ ] Sprites from the MS-DOS of Prince of Persia Shadow and the flame (Decompression and Sprite editing Tool Needed)
 ### GBA - Shadow Advance
 #### Didn't Start yet
@@ -15,6 +15,5 @@
 - [ ] Music
 - [ ] Sprites
 ### GBA - Rayman Advance Remastered Edition
-#### Didnt Start yet
 - [ ] PS1 like palette
 - [ ] correct music location
