@@ -7,7 +7,7 @@
 - [x] Pallete
 - [x] Skip Death Animations
 - [ ] Disable Flashing Lights
-- [ ] Music (Tool Needed or better music doc)
+- [ ] Music (Correctly in progress) https://www.youtube.com/watch?v=wtJ4V7j3jpM
 - [ ] Sprites from the MS-DOS of Prince of Persia Shadow and the flame (Decompression and Sprite editing Tool Needed)
 ### GBA - Shadow Advance
 #### Didn't Start yet
