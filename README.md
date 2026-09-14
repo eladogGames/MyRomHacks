@@ -8,7 +8,7 @@
 - [x] Skip Death Animations
 - [ ] Disable Flashing Lights
 - [ ] Music (Correctly in progress) https://www.youtube.com/watch?v=wtJ4V7j3jpM
-- [ ] Sprites from the MS-DOS of Prince of Persia Shadow and the flame (Decompression and Sprite editing Tool Needed)\
+- [ ] Sprites from the MS-DOS of Prince of Persia Shadow and the flame (Found a tool by slidelljhon)
 
  ## Real Hardware Compatbility
 Here You Can Check if the Hack is compatble with your hardware
